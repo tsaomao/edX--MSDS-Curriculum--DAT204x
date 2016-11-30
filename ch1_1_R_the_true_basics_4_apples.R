@@ -1,5 +1,9 @@
-# Assign the value 5 to the variable called my_apples
+# Assign a value to the variables my_apples and my_oranges
 my_apples <- 5
+my_oranges <- 6
 
-# Print out the value of the variable my_apples
-my_apples
+# Add these two variables together and print the result
+my_apples + my_oranges
+
+# Create the variable my_fruit
+my_fruit <- my_apples + my_oranges
