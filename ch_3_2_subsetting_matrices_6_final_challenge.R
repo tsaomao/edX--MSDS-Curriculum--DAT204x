@@ -23,3 +23,11 @@ rownames(view_count_2) <- rows
 view_count_1
 view_count_2
 
+# Combine view_count_1 and view_count_2 in a new matrix: view_count_all
+view_count_all <- cbind(view_count_1, view_count_2)
+
+# Subset view counts for three loudest debaters: view_count_loud
+view_count_loud <- view_count_all[,c("Rachel","Walter","Dave")]
+
+# Use colSums() to calculate the number of views: total_views_loud
+total_views_loud <- colSums(view_count_loud)
