@@ -20,4 +20,4 @@ star_wars_matrix
 star_wars_matrix2 
 
 # Combine both Star Wars trilogies in one matrix: all_wars_matrix
-all_wars_matrix2 <- rbind(star_wars_matrix, star_wars_matrix2)
+all_wars_matrix <- rbind(star_wars_matrix, star_wars_matrix2)
