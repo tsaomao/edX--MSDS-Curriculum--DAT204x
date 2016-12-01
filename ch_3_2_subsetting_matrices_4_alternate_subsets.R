@@ -10,7 +10,7 @@ rownames(star_wars_matrix) <- c("A New Hope", "The Empire Strikes Back", "Return
 # star_wars_matrix is already defined in your workspace
 
 # Select the US revenues for "A New Hope" and "The Empire Strikes Back"
-star_wars_matrix[c("A New Hope", "The Empire Strikes Back"), c("US", "non-US")]
+star_wars_matrix[c("A New Hope", "The Empire Strikes Back"), c("US")]
 
 # Select the last two rows and both columns
 star_wars_matrix[c(FALSE, TRUE, TRUE), c(TRUE, TRUE)]
