@@ -6,7 +6,7 @@ names(poker_vector) <- days_vector
 names(roulette_vector) <- days_vector
 
 # Roulette results for Tuesday to Friday inclusive: roulette_subset
-roulette_subset <- roulette_vector[4:5]
+roulette_subset <- roulette_vector[2:5]
 
 # Print roulette_subset
 roulette_subset
