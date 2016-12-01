@@ -16,3 +16,8 @@ Further Readings for Chapter 3. Matrices:
 Need to know more about matrices in R? Don't worry, there is plenty of information available!  The following webpage r-project/matrices (https://cran.r-project.org/doc/manuals/R-intro.html#Arrays-and-matrices) will guide you to the right piece of information inside the big library of r-project. Note that it also contains more advanced operations on matrices, like how to take the determinant of a matrix in R or how to transpose a matrix.
 
 As an alternative source you can visit this webpage: ats.ucla.edu/matrices (http://www.ats.ucla.edu/stat/r/library/matrix_alg.htm) on the site of the Institute for Digital Research and Education. Here the concept of working with matrices in R is once again explained and some more technical examples are also discussed.
+
+Further Readings for Chapter 4. Factors:
+Factors are handy right? Of course you want to know more! As always a good source is r-project, following this link r-project/factors (https://cran.r-project.org/doc/manuals/R-intro.html#Factors), you immediatly get to the right information.
+
+The Swiss Federal Institute of technology in Zurich, also has some very good documentation on factors in R. You can find it on their website by following this link: stat.ethz.chse/factors (https://stat.ethz.ch/R-manual/R-devel/library/base/html/factor.html). 
