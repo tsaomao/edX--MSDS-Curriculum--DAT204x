@@ -6,10 +6,10 @@ names(poker_vector) <- days_vector
 names(roulette_vector) <- days_vector
 
 # Select amounts for profitable roulette days: roulette_profits
-roulette_profits <- roulette_vector > 0
+roulette_profits <- roulette_vector[roulette_vector > 0]
 
 # Sum of the profitable roulette days: roulette_total_profit
-roulette_total_profit <- sum(roulette_vector[roulette_profits])
+roulette_total_profit <- sum(roulette_profits)
 
 # Number of profitable roulette days: num_profitable_days
-num_profitable_days <- sum(roulette_profits)
+num_profitable_days <- sum(roulette_vector > 0)
