@@ -11,3 +11,4 @@ cont <- factor(c("core", "data", "data", "data", "data"))
 lst <- list(top[5], prop[,4])
 skills <- list("topics" = top, "context" = cont, "properties" = prop, "list_info" = lst)
 
+key_skills <- list(skills$topics[[2]], skills$context[[2]], skills$list_info[[2]][[4]])
