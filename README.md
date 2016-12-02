@@ -28,3 +28,9 @@ Further Readings for Chapter 5. Lists:
 Do you feel like you need to know even more about lists? No problem, r-project is again there for you. This link: r-project.org/Lists (https://cran.r-project.org/doc/manuals/R-intro.html#Lists), will guide you to the info you were looking for. 
 
 For more examples about lists, you can consult R tutorial, go to the examples by visiting this page on R tutorial (http://www.r-tutor.com/r-introduction/list). 
+
+
+Further Readings for Chapter 6. Data frames:
+Still aren't satisfied about your knowledge of dataframes? There are again some sources you can consult to go even deeper into the material. Yet again as a first aid you can consult r-project. By clicking this link r-project.org/Data-frames (https://cran.r-project.org/doc/manuals/R-intro.html#Data-frames), you will immediatly go to the right chapter.
+
+You can also check out this page on R-tutorial (http://www.r-tutor.com/r-introduction/data-frame) if you want some extra examples and more information on data frames.
