@@ -17,7 +17,14 @@ Need to know more about matrices in R? Don't worry, there is plenty of informati
 
 As an alternative source you can visit this webpage: ats.ucla.edu/matrices (http://www.ats.ucla.edu/stat/r/library/matrix_alg.htm) on the site of the Institute for Digital Research and Education. Here the concept of working with matrices in R is once again explained and some more technical examples are also discussed.
 
+
 Further Readings for Chapter 4. Factors:
 Factors are handy right? Of course you want to know more! As always a good source is r-project, following this link r-project/factors (https://cran.r-project.org/doc/manuals/R-intro.html#Factors), you immediatly get to the right information.
 
 The Swiss Federal Institute of technology in Zurich, also has some very good documentation on factors in R. You can find it on their website by following this link: stat.ethz.chse/factors (https://stat.ethz.ch/R-manual/R-devel/library/base/html/factor.html). 
+
+
+Further Readings for Chapter 5. Lists:
+Do you feel like you need to know even more about lists? No problem, r-project is again there for you. This link: r-project.org/Lists (https://cran.r-project.org/doc/manuals/R-intro.html#Lists), will guide you to the info you were looking for. 
+
+For more examples about lists, you can consult R tutorial, go to the examples by visiting this page on R tutorial (http://www.r-tutor.com/r-introduction/list). 
