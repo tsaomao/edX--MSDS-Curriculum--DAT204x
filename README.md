@@ -34,3 +34,9 @@ Further Readings for Chapter 6. Data frames:
 Still aren't satisfied about your knowledge of dataframes? There are again some sources you can consult to go even deeper into the material. Yet again as a first aid you can consult r-project. By clicking this link r-project.org/Data-frames (https://cran.r-project.org/doc/manuals/R-intro.html#Data-frames), you will immediatly go to the right chapter.
 
 You can also check out this page on R-tutorial (http://www.r-tutor.com/r-introduction/data-frame) if you want some extra examples and more information on data frames.
+
+
+Further Readings for Chapter 7. Graphics:
+You are now familiar with the basics of plotting in R. Congratulations! Still hungry for knowledge?  Visit this page on r-project (https://cran.r-project.org/doc/manuals/R-intro.html#The-plot_0028_0029-function) to learn even more about plotting in R.
+
+As an alternative source, you could also have a look at statmethods/graphs (http://www.statmethods.net/advgraphs/axes.html). Here you can find some very well documented information about making plots in R.
